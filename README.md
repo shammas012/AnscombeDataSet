@@ -3,9 +3,11 @@ An investigation into the Anscombe's Quartet Dataset
 
 As the Anscombe's Qaurtet dataset was taken from the Graphs in Statistical Analysis by F.J. Anscombe, started the assignment by reading the actual paper. Also, investigated on several similar studies available online on this topic. Eventhough adapted some approaches from existing studies tried my best not to copy the code or text. The links to these studies are included in the references.
 
-Tried to simulate the numerical studies performed by Anscombe on the dataset using python language. The mean, standrad variance, variance etc are already implemented. Now trying to calculate the point of intercept, R squared etc .
+Tried to simulate the numerical studies performed by Anscombe on the dataset using python language. The mean, standrad variance, variance etc are already implemented. 
 
 The graphs of the datasets are already plotted. once the numeric calclulations are completed, the outcome from the numerical studies should be compared with the graphical output to prove that graphical representation can provide a much better picture of the dataset.
+
+Now the numerical calculations are completed and the dataset graphical representation proved the datasets are not identical.
 
 Issues faced:
 unable to import dautil library, spent sometime investigating the issue, but was not able to resolve.
